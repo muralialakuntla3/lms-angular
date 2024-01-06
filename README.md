@@ -2,4 +2,4 @@
 ## update backend ip in this location
 - cd lms-angular/LMS-Angular/src/app
 - vi auth.service.ts
-- line no: 34
+- line no: 34 or 13
